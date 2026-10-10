@@ -1,0 +1,51 @@
+
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "generatooooor:block/egu_cable_core"
+      }
+    },
+    {
+      "when": { "north": true },
+      "apply": {
+        "model": "generatooooor:block/egu_cable_arm_north"
+      }
+    },
+    {
+      "when": { "south": true },
+      "apply": {
+        "model": "generatooooor:block/egu_cable_arm_north",
+        "y": 180
+      }
+    },
+    {
+      "when": { "east": true },
+      "apply": {
+        "model": "generatooooor:block/egu_cable_arm_north",
+        "y": 90
+      }
+    },
+    {
+      "when": { "west": true },
+      "apply": {
+        "model": "generatooooor:block/egu_cable_arm_north",
+        "y": 270
+      }
+    },
+    {
+      "when": { "up": true },
+      "apply": {
+        "model": "generatooooor:block/egu_cable_arm_north",
+        "x": 270
+      }
+    },
+    {
+      "when": { "down": true },
+      "apply": {
+        "model": "generatooooor:block/egu_cable_arm_north",
+        "x": 90
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " I ",
+    "GRG",
+    " I "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "G": { "item": "minecraft:gold_ingot" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": {
+    "item": "generatooooor:egu_cable",
+    "count": 8
+  }
+}

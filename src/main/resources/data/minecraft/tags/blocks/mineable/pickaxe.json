@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "generatooooor:compressed_magma_block",
+    "generatooooor:double_compressed_magma_block",
+    "generatooooor:triple_compressed_magma_block",
+    "generatooooor:egu_generator",
+    "generatooooor:egu_cable"
+  ]
+}

@@ -1,0 +1,13 @@
+
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "generatooooor:block/egu_generator_front",
+    "north": "generatooooor:block/egu_generator_side",
+    "south": "generatooooor:block/egu_generator_front",
+    "east": "generatooooor:block/egu_generator_front",
+    "west": "generatooooor:block/egu_generator_front",
+    "up": "generatooooor:block/egu_generator_front",
+    "down": "generatooooor:block/egu_generator_front"
+  }
+}

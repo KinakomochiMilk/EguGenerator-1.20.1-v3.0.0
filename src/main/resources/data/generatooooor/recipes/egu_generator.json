@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IMI",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_block" },
+    "M": { "item": "generatooooor:triple_compressed_magma_block" }
+  },
+  "result": {
+    "item": "generatooooor:egu_generator",
+    "count": 1
+  }
+}

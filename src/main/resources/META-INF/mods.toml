@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="MIT"
+
+[[mods]]
+modId="generatooooor"
+version="${mod_version}"
+displayName="Egu Generator"
+authors="KinakomochiMilk"
+description='''周囲の熱を吸収して発電する Egu Generator。'''
+
+[[dependencies.generatooooor]]
+modId="forge"
+mandatory=true
+versionRange="${forge_version_range}"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.generatooooor]]
+modId="minecraft"
+mandatory=true
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
