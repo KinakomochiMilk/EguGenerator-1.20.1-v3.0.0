@@ -1,6 +1,6 @@
-# Egu Generator
+# Egu Generator(1.20.1)
 
-**Egu Generator** は、Minecraft Forge 1.20.1 向けに開発された、超大容量のエネルギーを生成する発電機MODです。
+**Egu Generator(1.20.1)** は、Minecraft Forge 1.20.1 向けに開発された、超大容量のエネルギーを生成する発電機MODです。
 
 通常のバランスを大きく超えた発電量と蓄電容量を特徴としています。
 
